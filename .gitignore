@@ -1,0 +1,14 @@
+node_modules/
+project.private.config.json
+*.log
+.env
+*.pem
+.tools/
+tmp/
+output/
+*.zip
+account-materials/
+docs/旧版_*.md
+先看这里.md
+云端部署进度.md
+reports/*原型补充版.pdf

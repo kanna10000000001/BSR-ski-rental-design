@@ -1,0 +1,1 @@
+{ "desc": "内部业务管理工具", "rules": [{ "action": "disallow", "page": "*" }] }

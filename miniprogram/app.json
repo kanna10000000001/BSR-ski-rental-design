@@ -1,0 +1,6 @@
+{
+  "pages": ["pages/customer/index", "pages/index/index"],
+  "window": { "navigationBarTitleText": "BSR 滑雪租赁", "navigationBarBackgroundColor": "#102e35", "navigationBarTextStyle": "white", "backgroundColor": "#f3f6f5" },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

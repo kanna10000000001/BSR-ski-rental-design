@@ -1,0 +1,22 @@
+{
+  "envId": "smiling-eel-d0ga3uw9x0e95603a",
+  "functionRoot": "./cloudfunctions",
+  "functions": [
+    {
+      "name": "bsrApi",
+      "runtime": "Nodejs18.15",
+      "handler": "index.main",
+      "timeout": 20,
+      "memorySize": 256,
+      "installDependency": true
+    },
+    {
+      "name": "bsrWebApi",
+      "runtime": "Nodejs18.15",
+      "handler": "index.main",
+      "timeout": 20,
+      "memorySize": 256,
+      "installDependency": true
+    }
+  ]
+}
