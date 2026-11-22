@@ -40,5 +40,8 @@ node scripts/check.js
 | 门店员工 | staff | staff1234 |
 | 维修承包商 | vendor | vendor1234 |
 
+网页管理端：[点击打开系统](https://smiling-eel-d0ga3uw9x0e95603a-1512334442.tcloudbaseapp.com/admin/index.html)
+
 小程序体验版二维码：
+
 ![小程序体验版二维码](docs/miniprogram-qr.png)
