@@ -39,3 +39,6 @@ node scripts/check.js
 | 课程负责人 | manager | manager1234 |
 | 门店员工 | staff | staff1234 |
 | 维修承包商 | vendor | vendor1234 |
+
+小程序体验版二维码：
+![小程序体验版二维码](docs/miniprogram-qr.png)
